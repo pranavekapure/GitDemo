@@ -5,5 +5,3 @@ my nine to be merged to branch1
 
 ---------------------------
 adding for rebase1
-
-commit on rebasebranch
